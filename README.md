@@ -14,7 +14,7 @@ For Feature Creation:
 2. Run frequency_feature_creator.py
 
 Model.py is the python script that will generate the final solution. Output of this notebook is
-1) final_sub.csv (predictions for the test set)
-2) feature_importance.csv (feature importance list)
-3)hard_classes.csv (this is the hard classes file)
+1. final_sub.csv (predictions for the test set)
+2. feature_importance.csv (feature importance list)
+3. hard_classes.csv (this is the hard classes file)
 
