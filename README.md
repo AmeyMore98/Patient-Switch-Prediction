@@ -1,7 +1,7 @@
 # Patient-Switch-Prediction
 Developed an ML model to predict if a patient would switch from their current medical regimen
 
-## Dataset: https://www.kaggle.com/kksienc/armanik-patient-drugswitch
+Dataset: https://www.kaggle.com/kksienc/armanik-patient-drugswitch
 
 Please make sure that all the requirement(libraries) in the requirements.txt are installed.
 Python 3.6 was used for develpment.
