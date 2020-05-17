@@ -1,4 +1,5 @@
 # Patient-Switch-Prediction
+https://analyticsindiamag.com/patient-drug-switch-prediction-winners/
 Developed an ML model to predict if a patient would switch from their current medical regimen
 
 Dataset: https://www.kaggle.com/kksienc/armanik-patient-drugswitch
